@@ -1,0 +1,37 @@
+*{padding: 0px; margin: 0px}
+#body-login{
+    width: 30%;
+    margin: 10% auto;
+    height: 300px;
+    background-color: lightgrey;
+    border-radius: 15px;
+}
+
+.log-logo{
+    width: 100%;
+    height: 150px;
+    margin: auto;
+}
+.form-style{
+    width: 100%;
+    border-radius: 10px;
+}
+.form-style table{
+    margin: auto;
+}
+.form-style table tr{
+    height: 40px;
+}
+.form-style.material-icons.custom-adlog{
+    font-size: 36px;
+    color: darkslateblue;
+}
+#txtUser, #txtPass{
+    height: 25px;
+    width: 240px;
+}
+#btnSub, #btnCancel{
+    width: 90px;
+    height: 20px;
+    -webkit-border-radius: 3px;
+}
